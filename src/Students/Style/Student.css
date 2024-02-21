@@ -1,0 +1,74 @@
+
+
+input[type='text'],
+input[type='number'],
+button {
+  margin: 5px;
+  font-family: cursive;
+}
+
+body{
+  font-family: cursive;
+  background-color: rgba(238, 235, 225, 0.259);
+}
+
+
+.student-container{
+ border-radius: 7px;
+ margin-top: 2%;
+ margin-left: 10%;
+ margin-right: 10%;
+ background-color: rgba(181, 195, 238, 0.174);
+}
+
+
+.student-actions{
+  font-family: cursive;
+}
+
+
+input{
+  border-radius: 5px;
+}
+
+
+button{
+  font-size: smaller;
+  border-radius: 20px;
+  border-color:rgba(176, 176, 176, 0.502) ;
+  background-color: rgba(176, 176, 176, 0.502);
+}
+
+
+
+.student-container {
+  font-size: smaller;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.student-details {
+  margin-bottom: 5px;
+}
+
+.student-actions {
+  margin-top: 5px;
+}
+
+
+.students-list-container {
+  margin-top: 3%;
+  background-color: azure;
+  border-radius: 5%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border: 2px solid #ccc; /* Adding border around the list of students */
+  padding: 20px; /* Adding padding for better spacing */
+}
+
+
+svg{
+  height: 17px;
+  width: 17px;
+}
